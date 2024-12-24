@@ -1,0 +1,21 @@
+{
+  "name": "bibliotheque1",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "epress": "^0.0.1-security",
+    "express": "^4.21.2",
+    "mysql2": "^3.11.5",
+    "nodemon": "^3.1.9",
+    "sequelize": "^6.37.5"
+  }
+}
